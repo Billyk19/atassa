@@ -14,7 +14,7 @@ services:
     healthCheckPath: /health
     envVars:
       - key: SESSION_ID
-        sync: true
+        sync: Gifted~PTDX9ezKumWQ
       - key: MODE
         value: public
       - key: TIME_ZONE
